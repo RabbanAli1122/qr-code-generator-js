@@ -2,18 +2,22 @@
 
 ## Features
 - Generates QR Code of URL and Text
-- The dimentions of the QR Code can be set as intended
-- The QR Code can be downloaded as png file
+- The dimensions of the QR Code can be set as intended
+- The QR Code can be downloaded as a PNG file
 - Decent UI
 
 ## Demo
 
-https://github.com/user-attachments/assets/64642ab0-1267-4dae-bf64-2de604e2082e
+
+
+https://github.com/user-attachments/assets/2d83edfb-1097-4d5b-92d1-c40894bd3325
+
 
 ## Screenshot
-<img width="658" alt="Screenshot 2025-06-11 at 11 32 31 AM" src="https://github.com/user-attachments/assets/53b24eb9-d6da-435f-a2d4-b1516b7d24a6" />
+<img width="718" alt="Screenshot 2025-06-15 at 7 37 45 PM" src="https://github.com/user-attachments/assets/13494395-a560-4169-b96c-d878096f472a" />
+<img width="718" alt="Screenshot 2025-06-15 at 7 37 32 PM" src="https://github.com/user-attachments/assets/c05e7708-32e6-49fe-9751-4151d2a475ca" />
+<img width="718" alt="Screenshot 2025-06-15 at 7 31 11 PM" src="https://github.com/user-attachments/assets/8d40bc2a-75b7-481c-9daa-e2c882debeb5" />
 
-<img width="1015" alt="Screenshot 2025-06-11 at 11 53 13 AM" src="https://github.com/user-attachments/assets/65f93bca-730e-4093-8f0a-dbfd7b63fdaa" />
 
 ## Technologies Used
 1. HTML5
