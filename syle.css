@@ -93,3 +93,20 @@ body{
     border: var(--border);
     box-shadow:var(--shadow);
 }
+@media screen and (max-width:520px){
+    .box{
+        width: 80%;
+    }
+    .qr-footer a{
+        padding:12px 25px;
+        font-size: 15px;
+    }
+    .qr-header input, select{
+        padding: 5px;
+        font-size: 15px;
+    }
+    .qr-header label{
+        margin-top: 8px;
+        font-size: 15px;
+    }
+}
