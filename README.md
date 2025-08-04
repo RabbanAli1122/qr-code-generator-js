@@ -40,3 +40,11 @@ To run the project locally:
 git clone https://github.com/RabbanAli1122/qr-code-generator-js.git
 cd qr-code-generator-js
 open index.html
+
+
+## 🧠 Lessons Learned (Optional Section)
+1. Handling DOM events and user input
+
+2. Using external JS libraries
+
+5. Responsive UI building
