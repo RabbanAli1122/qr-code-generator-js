@@ -12,7 +12,7 @@ A simple web app to generate customizable QR codes from any text or URL. Built u
 
 ## 📺 Demo
 
-[Live Demo Link](https://github.com/user-attachments/assets/2d83edfb-1097-4d5b-92d1-c40894bd3325)
+[Live Demo Link](https://rabbanali1122.github.io/qr-code-generator-js/)
 
 
 ## 🖼️ Screenshots
