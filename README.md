@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
+
 # QR Code Generator
 
 A simple web app to generate customizable QR codes from any text or URL. Built using vanilla JavaScript, HTML5, and CSS3.
