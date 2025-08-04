@@ -40,6 +40,8 @@ To run the project locally:
 git clone https://github.com/RabbanAli1122/qr-code-generator-js.git
 cd qr-code-generator-js
 open index.html
+```
+
 
 
 ## 🧠 Lessons Learned (Optional Section)
