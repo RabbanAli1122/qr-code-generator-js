@@ -2,7 +2,6 @@
 
 A simple web app to generate customizable QR codes from any text or URL. Built using vanilla JavaScript, HTML5, and CSS3.
 
----
 
 ## ✨ Features
 - Generate QR codes for both **text** and **URLs**
@@ -10,13 +9,11 @@ A simple web app to generate customizable QR codes from any text or URL. Built u
 - **Download** the QR code as a PNG image
 - Clean, responsive **UI**
 
----
 
 ## 📺 Demo
 
 [Live Demo Link](https://github.com/user-attachments/assets/2d83edfb-1097-4d5b-92d1-c40894bd3325)
 
----
 
 ## 🖼️ Screenshots
 
@@ -24,19 +21,16 @@ A simple web app to generate customizable QR codes from any text or URL. Built u
 <img width="718" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c05e7708-32e6-49fe-9751-4151d2a475ca" />
 <img width="718" alt="Screenshot 3" src="https://github.com/user-attachments/assets/8d40bc2a-75b7-481c-9daa-e2c882debeb5" />
 
----
 
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
 
----
 
 ## 📚 Acknowledgements
 This project was made possible through various open-source libraries and documentation. Special thanks to the developers of `qrcode.js`.
 
----
 
 ## 🚀 Getting Started
 
